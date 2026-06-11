@@ -1,0 +1,103 @@
+/* #box 
+{
+    background-color: aqua;
+    font-weight: bolder;
+}
+h1
+{
+    text-decoration: underline;
+    text-align: center;
+    font-weight: bold;
+    color: brown;
+    font-size:xx-large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+    width: 1000px;
+    height: 100px;
+    background-color: aqua;
+    text-align: right;
+    line-height:4cqw;
+    border-color: black;
+    border-style: dotted;
+    border-radius: 5cap;
+    padding-top: 50px;
+    margin-top: 10px;
+}
+div{
+    text-align: center;
+    
+}
+p{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+} */
+ 
+ /* PRACTICE*{
+    padding: 0;
+    margin: 0;
+    color: white;
+ }
+ #navbar{
+    height: 60px;
+    background-color:#0f1111 ;
+
+ }
+ button{
+    background-color: #f08804;
+ }
+ #logo{
+    color: #f08804;
+ }
+ a
+ {
+    margin-right: 200px;
+    text-decoration: none;
+ } */
+  /* div{
+    background-color: pink;
+    display: inline;
+  } */
+/* div{
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+     display: inline;
+} */
+/* .contentBox{
+    height: 100px;
+    width: 100px;
+} */
+ body{
+    text-align: center;
+ }
+
+div{
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    border:2px solid black;
+}
+#content
+{
+    height: 200px;
+    width: 800px;
+    display: flex;
+    flex-direction: row-reverse;
+    
+    
+}
+#box1{
+    height: 100px;
+    width: 100pxS;
+    background-color: aqua;
+}
+#box3{
+    
+    background-color: rgb(139, 14, 14);
+}
+#box2{
+    
+    background-color: rgb(0, 51, 255);
+}
